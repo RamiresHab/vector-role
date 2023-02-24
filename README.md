@@ -10,7 +10,10 @@ Requirements
 Role Variables
 --------------
 
-У роли есть переменная vector_version, которая определяет версию софта.
+| Name           | Default Value | Description                        |
+| -------------- | ------------- | -----------------------------------|
+| `vector_version` | 0.27.0 | Версия vector |
+| `vector_package` | vector | название пакета для установкиvector |
 
 Dependencies
 ------------
